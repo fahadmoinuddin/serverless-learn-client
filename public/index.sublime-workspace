@@ -1,0 +1,253 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Bana",
+				"Bananas"
+			],
+			[
+				"A",
+				"AT"
+			],
+			[
+				"sheet",
+				"sheetCount"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"qpmfile",
+				"qpmfilenam"
+			],
+			[
+				"date",
+				"date1"
+			],
+			[
+				"selec",
+				"select_Month"
+			],
+			[
+				"QPM",
+				"QPMMonth_Year"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/HCL/Desktop/Fahad/aws-node/notes-app-api/serverless-deploy.txt",
+		"/Users/HCL/Desktop/Fahad/aws-node/notes-app-api/package.json",
+		"/Users/HCL/Desktop/Fahad/react/AwesomeProject/App.js",
+		"/Users/HCL/Downloads/google-services.json",
+		"/Users/HCL/.bash_profile",
+		"/Users/HCL/Desktop/Fahad/svnDex/DMO/DexGraph/app/src/main/java/com/hcl/dex/ui/dmo/customview/fetchindividualdmodetails/DMOSDUCEAdapter.java",
+		"/Users/HCL/Desktop/Fahad/svnDex/DMO/DexGraph/app/src/main/java/com/hcl/dex/ui/dmo/customview/fetchindividualdmodetails/DMOChildViewHolder.java",
+		"/Users/HCL/Desktop/Fahad/DEXDMO/dex/build.gradle",
+		"/Users/HCL/Desktop/Fahad/svnDex/Graph/app/build.gradle",
+		"/Users/HCL/Desktop/Fahad/svnDex/DMO/DexGraph/app/build.gradle",
+		"/Users/HCL/Desktop/Fahad/kotlin/helloworld3.kt",
+		"/Users/HCL/Desktop/Fahad/kotlin/helloworld2.kt",
+		"/Users/HCL/Desktop/Fahad/kotlin/helloworld.kt",
+		"/Users/HCL/Downloads/cifar-10-batches-py/batches.meta",
+		"/Users/HCL/Desktop/mailcontent.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web_hcl/public/pcsat_test.php",
+		"/Users/HCL/Desktop/Fahad/DEX/DOCS/LHI/json_format.json",
+		"/Users/HCL/Downloads/DEX_25032018/app/build.gradle",
+		"/Users/HCL/Desktop/Fahad/DEX/Web/web_hcl/public/dexadmindev/example_011.php",
+		"/Users/HCL/Desktop/Fahad/DockerWorkspace/docker-compose.yml",
+		"/Users/HCL/Desktop/DexCode2/build.gradle",
+		"/Users/HCL/Desktop/Fahad/DockerWorkspace/app.py",
+		"/Users/HCL/Desktop/Fahad/DockerWorkspace/requirements.txt",
+		"/Users/HCL/Desktop/Fahad/DockerWorkspace/Dockerfile",
+		"/Users/HCL/Downloads/aws/Aws/Sqs/SqsClient.php",
+		"/Users/HCL/Desktop/Fahad/DEX/Web/dex_app/ajax.php",
+		"/Users/HCL/Desktop/pcsat_test.php",
+		"/Users/HCL/Desktop/dmo.php",
+		"/Users/HCL/Desktop/Fahad/DEX/Web/web_hcl/public/dexadmindev/Excellibreary/Classes/PHPExcel/Style/NumberFormat.php",
+		"/Users/HCL/Downloads/PHPExcel-1.8/Classes/PHPExcel/Style/NumberFormat.php",
+		"/Users/HCL/Downloads/PHPExcel-1.8/Classes/PHPExcel/Reader/Excel2007.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/apns/apns_demo.php",
+		"/Applications/XAMPP/xamppfiles/etc/extra/httpd-xampp.conf",
+		"/Users/HCL/Desktop/StringExtractor.txt",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/challenge/ionic-split-pane-demo/ionic.config.json",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/challenge/ionic-split-pane-example/tsconfig.json",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/pages/home/home.html",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/app/app.module.ts",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/providers/restservice/restservice.ts",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/pages/home/home.ts",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/app/app.html",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/app/app.component.ts",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/pages/about/about.html",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/pages/about/about.scss",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/pages/about/about.ts",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/pages/contact/contact.html",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/pages/contact/contact.scss",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/app/app.scss",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/app/main.ts",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/pages/home/home.scss",
+		"/Users/HCL/Desktop/Kalanithy/USAA/workspace/testProj_ionic2_angular4/src/pages/tabs/tabs.html",
+		"/Users/HCL/Downloads/masterpass-android-sample-app-master/Test-Merchant-Server/src/main/resources/config.properties",
+		"/Users/HCL/Downloads/dwv-master/viewers/mobile/index.html",
+		"/Users/HCL/Desktop/RPM-SVN/RPM-Patient/RPM-Patient/RemotePatientMonitoring/MMAConfig.json",
+		"/Users/HCL/Documents/Backup/MMA-Backend_Backup/mma/api.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mma/api.php",
+		"/Users/HCL/Desktop/RPM_Backend/mma/api.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
