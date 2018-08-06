@@ -12,7 +12,8 @@ const dev = {
         USER_POOL_ID: "us-east-1_7DKxZ0WBk",
         APP_CLIENT_ID: "3hlt90togs24tk87e8c05b174a",
         IDENTITY_POOL_ID: "us-east-1:8a012ab4-6f00-460c-be09-8950de034574"
-    }
+    },
+    STRIPE_KEY: "pk_test_cPpZQITIMoJv43WjYITJImLG"
 };
 
 const prod = {
@@ -29,7 +30,8 @@ const prod = {
         USER_POOL_ID: "us-east-1_3iMvKiFGE",
         APP_CLIENT_ID: "1eq2kihihr2j7e2oqet5fd6ll9",
         IDENTITY_POOL_ID: "us-east-1:47f2bab1-35e3-4b1c-bd2f-a67c1afe3113"
-    }
+    },
+    STRIPE_KEY: "pk_test_cPpZQITIMoJv43WjYITJImLG"
 };
 
 const config = process.env.REACT_APP_STAGE === 'prod' ? prod : dev;
